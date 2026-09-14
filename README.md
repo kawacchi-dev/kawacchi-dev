@@ -1,16 +1,14 @@
-## Hi there 👋
+# Kawa
 
-<!--
-**kawacchi-dev/kawacchi-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Freelance Software Engineer
 
-Here are some ideas to get you started:
+企業からの業務委託を中心に、ソフトウェア開発を行っています。
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Activities
+
+- Webアプリケーション開発
+- ソフトウェア設計・実装
+- Web探索型ARG関連プロダクトの開発
+
+現在の業務については守秘義務のため、
+契約先企業名・案件詳細・ソースコード等は公開していません。
